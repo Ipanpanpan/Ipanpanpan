@@ -4,7 +4,7 @@
 
 I am a Bachelor of Science in Data Science undergraduate at Xiamen University Malaysia (Expected Sept 2027) with a CGPA of 3.90/4.00. My focus lies in predictive modeling, deep learning, and translating raw data into actionable business intelligence. 
 
-Currently, I serve as an Undergraduate Research Assistant investigating Deep Learning approaches for Human Activity Recognition (HAR) using Wi-Fi sensing. I also manage finances and coordinate technical events as the Treasurer for the XMUM AI Club.
+My experience includes serving as an Undergraduate Research Assistant (Mar 2026 - May 2026) investigating Deep Learning approaches for Human Activity Recognition (HAR) using Wi-Fi sensing. I also managed finances and coordinated technical events as the Treasurer for the XMUM AI Club (Sep 2024 - Sep 2026).
 
 ## Technical Stack
 
