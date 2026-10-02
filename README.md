@@ -1,4 +1,4 @@
-# Hi, I'm Ivan Nathanael 👋[cite: 1]
+# Hi, I'm Ivan Nathanael 👋
 
 🚀 **Status: Actively seeking a full-time Data Science / Analytics / AI Internship (Available Feb - Aug 2027, 3-7 Months)**
 
