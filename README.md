@@ -34,9 +34,9 @@ My experience includes serving as an Undergraduate Research Assistant (Mar 2026 
 
 ### [Financial Statement Fraud Inference API](https://github.com/Ipanpanpan/Financial-Statement-Fraud-Detection/tree/main)
 *Automated early warning system for corporate earnings manipulation.*
-* **Tech:** FastAPI, Docker, Scikit-Learn, Ubuntu VPS.
-* **Impact:** Addressed a severe 98:2 class imbalance across 2,012 records using an L1-penalized Logistic Regression model. 
-* **Deployment:** Engineered and deployed a live REST API containerized with Docker and routed via a CloudPanel reverse proxy, optimizing a 0.60 probability threshold for secondary auditor review.
+- **Tech:** FastAPI, Google Cloud Platform (Cloud Run), GitHub Actions, Comet ML, Scikit-Learn.
+- **Impact:** Addressed a severe 98:2 class imbalance using an L1-penalized Logistic Regression model (optimizing a 0.60 probability threshold), integrated with Comet ML for real-time inference telemetry and data drift monitoring. 
+- **Deployment:** Engineered a fully automated MLOps CI/CD pipeline via GitHub Actions, seamlessly building and deploying the containerized REST API to a serverless Google Cloud Run environment secured by GCP Secret Manager.
 
 ### [E-Commerce Lifecycle & Retention Analytics](https://github.com/Ipanpanpan/ecommerce-lifecycle-analytics)
 *End-to-end data analytics identifying high-value segments and churn risks.*
