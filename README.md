@@ -17,6 +17,8 @@ My experience includes serving as an Undergraduate Research Assistant (Mar 2026 
 **Machine Learning & AI:**<br>
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![Comet ML](https://img.shields.io/badge/Comet_ML-%231A1A1A.svg?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-%238E75B2.svg?style=flat-square&logo=googlegemini&logoColor=white)
 
 **Data Engineering & Cloud:**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
@@ -24,6 +26,7 @@ My experience includes serving as an Undergraduate Research Assistant (Mar 2026 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 
 **Data Analytics:**<br>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
