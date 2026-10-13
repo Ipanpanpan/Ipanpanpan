@@ -55,3 +55,4 @@ My experience includes serving as an Undergraduate Research Assistant (Mar 2026 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ivannathanael.inbox@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-nathanael-375440279)
+[![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-%234285F4.svg?style=flat-square&logo=googlechrome&logoColor=white)](https://ivan-portofolio-jade.vercel.app/)
