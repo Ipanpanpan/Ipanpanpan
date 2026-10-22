@@ -43,4 +43,40 @@ My experience includes serving as an Undergraduate Research Assistant (Mar 2026 
 
 *End-to-end aviation maintenance data engineering and operational intelligence using synthetic MRO records.*
 
-**[View Live Looker Studio Dashboard](https://datastudio.google.com/reporting/e3415f26-ccd5-40d8-8d41-a55a48afd4ce)** | **[Source Code & Documentation](https://github.com
+**[View Live Looker Studio Dashboard](https://datastudio.google.com/reporting/e3415f26-ccd5-40d8-8d41-a55a48afd4ce)** | **[Source Code & Documentation](https://github.com/Ipanpanpan/MRO_Analytics_Interview_Starter)**
+
+- **Tech:** Python, Pandas, Google BigQuery, GoogleSQL, Looker Studio, Plotly.
+- **Data Engineering:** Developed a reproducible Python ETL pipeline to consolidate three fragmented maintenance department exports, standardize inconsistent schemas and timestamps, eliminate 12 duplicate records, and quarantine 3 invalid records, producing 480 validated work orders from 495 input rows.
+- **Analytics & Visualization:** Designed a four-table relational BigQuery warehouse and connected GoogleSQL views to an interactive Looker Studio dashboard, analyzing maintenance turnaround, backlog, on-time completion (55.70%), and delay root causes.
+- **Business Modeling:** Developed scenario-based financial analysis estimating **$520.9K in annual operational exposure** under base-case assumptions, alongside a modeled **14.75-hour weekly reduction** in manual data preparation effort.
+- **Validation:** Implemented 21 automated tests covering data integrity, financial calculations, SQL reconciliation, and reproducibility.
+
+> **Project transparency:** This is a synthetic portfolio demonstration, not an analysis of actual airline maintenance records. Financial exposure and time savings are modeled estimates, not measured company outcomes.
+
+### 2. [Financial Statement Fraud Inference API](https://github.com/Ipanpanpan/Financial-Statement-Fraud-Detection/tree/main)
+
+*Automated early warning system for corporate earnings manipulation.*
+
+- **Tech:** FastAPI, Google Cloud Platform (Cloud Run), GitHub Actions, Comet ML, Scikit-Learn.
+- **Impact:** Addressed a severe 98:2 class imbalance using an L1-penalized Logistic Regression model (optimizing a 0.60 probability threshold), integrated with Comet ML for real-time inference telemetry and data drift monitoring.
+- **Deployment:** Engineered a fully automated MLOps CI/CD pipeline via GitHub Actions, building and deploying the containerized REST API to a serverless Google Cloud Run environment secured by GCP Secret Manager.
+
+### 3. [E-Commerce Lifecycle & Retention Analytics](https://github.com/Ipanpanpan/ecommerce-lifecycle-analytics)
+
+*End-to-end data analytics identifying high-value segments and churn risks.*
+
+- **Tech:** Google BigQuery, SQL, Python, Pandas, Plotly.
+- **Impact:** Engineered multi-level CTEs and window functions to build a 3-dimensional RFM segmentation model, isolating high-value customers and identifying $450k in at-risk revenue.
+- **Insights:** Developed a cohort retention matrix and a dynamic calendar spine to uncover a sub-5% Month-1 retention rate, delivering actionable intelligence to shift marketing strategy from top-of-funnel acquisition to post-purchase retention.
+
+---
+
+## Publications
+
+* **WiFi-Based Human Activity Recognition and Fall Detection with Taxonomy, Benchmarks, and Future Directions: A Narrative Review.** *Artificial Intelligence and Applications* (2026). [DOI: 10.47852/bonviewAIA62027517](https://doi.org/10.47852/bonviewAIA62027517).
+
+## Get In Touch
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ivannathanael.inbox@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-nathanael-375440279)
+[![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-%234285F4.svg?style=flat-square&logo=googlechrome&logoColor=white)](https://ivan-portofolio-jade.vercel.app/)
